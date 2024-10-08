@@ -1,4 +1,4 @@
-#DATA:
+# DATE:
 # EX.04 Find the GCD of two numbers
 
 ## AIM:
